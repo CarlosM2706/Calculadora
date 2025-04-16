@@ -1,0 +1,10 @@
+D:\PA\Clases\Calculadora1\CalculadoraDigital\bin\Debug\CalculadoraDigital.exe.config
+D:\PA\Clases\Calculadora1\CalculadoraDigital\bin\Debug\CalculadoraDigital.exe
+D:\PA\Clases\Calculadora1\CalculadoraDigital\bin\Debug\CalculadoraDigital.pdb
+D:\PA\Clases\Calculadora1\CalculadoraDigital\obj\Debug\CalculadoraDigital.csproj.AssemblyReference.cache
+D:\PA\Clases\Calculadora1\CalculadoraDigital\obj\Debug\CalculadoraDigital.Form1.resources
+D:\PA\Clases\Calculadora1\CalculadoraDigital\obj\Debug\CalculadoraDigital.Properties.Resources.resources
+D:\PA\Clases\Calculadora1\CalculadoraDigital\obj\Debug\CalculadoraDigital.csproj.GenerateResource.cache
+D:\PA\Clases\Calculadora1\CalculadoraDigital\obj\Debug\CalculadoraDigital.csproj.CoreCompileInputs.cache
+D:\PA\Clases\Calculadora1\CalculadoraDigital\obj\Debug\CalculadoraDigital.exe
+D:\PA\Clases\Calculadora1\CalculadoraDigital\obj\Debug\CalculadoraDigital.pdb
