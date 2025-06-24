@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "VbB9lEHa5Nwnz/umrjjO2nVvhmG9Lzn7xtcs7PTGgQY=",
+  "Source": "BancoAPI",
+  "BasePath": "_content/BancoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BancoAPI\\wwwroot",
+      "Source": "BancoAPI",
+      "ContentRoot": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\",
+      "BasePath": "_content/BancoAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\index.html",
+      "SourceId": "BancoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\",
+      "BasePath": "_content/BancoAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pagtfww18k",
+      "Integrity": "P9nNOG1oasSiBobJgp9HKMTWabPGgQX2XeGmpzPgQ9Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\script.js",
+      "SourceId": "BancoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\",
+      "BasePath": "_content/BancoAPI",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gemgh1nwuc",
+      "Integrity": "aJpqjk5jx9QUvyxW3yt8OE0ngRXnKMAAJd5xVp88Lec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\style.css",
+      "SourceId": "BancoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\",
+      "BasePath": "_content/BancoAPI",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hh9ljgf5r1",
+      "Integrity": "u3lnvoLO63+eB5gPNl0JM47K11c1cY3SXNAaxRI2r0o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "975"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P9nNOG1oasSiBobJgp9HKMTWabPGgQX2XeGmpzPgQ9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 19:04:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P9nNOG1oasSiBobJgp9HKMTWabPGgQX2XeGmpzPgQ9Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.pagtfww18k.html",
+      "AssetFile": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "975"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P9nNOG1oasSiBobJgp9HKMTWabPGgQX2XeGmpzPgQ9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 19:04:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pagtfww18k"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P9nNOG1oasSiBobJgp9HKMTWabPGgQX2XeGmpzPgQ9Y="
+        }
+      ]
+    },
+    {
+      "Route": "script.gemgh1nwuc.js",
+      "AssetFile": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aJpqjk5jx9QUvyxW3yt8OE0ngRXnKMAAJd5xVp88Lec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 19:04:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gemgh1nwuc"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aJpqjk5jx9QUvyxW3yt8OE0ngRXnKMAAJd5xVp88Lec="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aJpqjk5jx9QUvyxW3yt8OE0ngRXnKMAAJd5xVp88Lec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 19:04:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aJpqjk5jx9QUvyxW3yt8OE0ngRXnKMAAJd5xVp88Lec="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u3lnvoLO63+eB5gPNl0JM47K11c1cY3SXNAaxRI2r0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 19:04:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u3lnvoLO63+eB5gPNl0JM47K11c1cY3SXNAaxRI2r0o="
+        }
+      ]
+    },
+    {
+      "Route": "style.hh9ljgf5r1.css",
+      "AssetFile": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u3lnvoLO63+eB5gPNl0JM47K11c1cY3SXNAaxRI2r0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 19:04:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hh9ljgf5r1"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u3lnvoLO63+eB5gPNl0JM47K11c1cY3SXNAaxRI2r0o="
+        }
+      ]
+    }
+  ]
+}

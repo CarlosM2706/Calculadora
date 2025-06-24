@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "gsYXMwcrnuZr9bJgqD/HONpXzdy/q7H3y40AYACDN/I=",
+  "Source": "NOTAS_APE",
+  "BasePath": "_content/NOTAS_APE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NOTAS_APE\\wwwroot",
+      "Source": "NOTAS_APE",
+      "ContentRoot": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\",
+      "BasePath": "_content/NOTAS_APE",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\index.html",
+      "SourceId": "NOTAS_APE",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\",
+      "BasePath": "_content/NOTAS_APE",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1bqy8v3gec",
+      "Integrity": "UzJx7ieU3PaiCRzD0DfwN4svFfkTKa0omAxYrrBOCRM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\scriptProfesores.js",
+      "SourceId": "NOTAS_APE",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\",
+      "BasePath": "_content/NOTAS_APE",
+      "RelativePath": "scriptProfesores#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "76fr6nao5f",
+      "Integrity": "cVhAkPM4QvijoE5jhU+KZDHl/YjKOZSjNpATusAE98g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scriptProfesores.js"
+    },
+    {
+      "Identity": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\stylesProfesor.css",
+      "SourceId": "NOTAS_APE",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\",
+      "BasePath": "_content/NOTAS_APE",
+      "RelativePath": "stylesProfesor#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lcfayi6e89",
+      "Integrity": "NTZ8wL2qXeBB9bWRuGqFxStWyvj5GeFsGh8yFMGORp8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\stylesProfesor.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.1bqy8v3gec.html",
+      "AssetFile": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UzJx7ieU3PaiCRzD0DfwN4svFfkTKa0omAxYrrBOCRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:05:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1bqy8v3gec"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UzJx7ieU3PaiCRzD0DfwN4svFfkTKa0omAxYrrBOCRM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UzJx7ieU3PaiCRzD0DfwN4svFfkTKa0omAxYrrBOCRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:05:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UzJx7ieU3PaiCRzD0DfwN4svFfkTKa0omAxYrrBOCRM="
+        }
+      ]
+    },
+    {
+      "Route": "scriptProfesores.76fr6nao5f.js",
+      "AssetFile": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\scriptProfesores.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11075"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cVhAkPM4QvijoE5jhU+KZDHl/YjKOZSjNpATusAE98g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:04:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76fr6nao5f"
+        },
+        {
+          "Name": "label",
+          "Value": "scriptProfesores.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cVhAkPM4QvijoE5jhU+KZDHl/YjKOZSjNpATusAE98g="
+        }
+      ]
+    },
+    {
+      "Route": "scriptProfesores.js",
+      "AssetFile": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\scriptProfesores.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11075"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cVhAkPM4QvijoE5jhU+KZDHl/YjKOZSjNpATusAE98g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:04:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cVhAkPM4QvijoE5jhU+KZDHl/YjKOZSjNpATusAE98g="
+        }
+      ]
+    },
+    {
+      "Route": "stylesProfesor.css",
+      "AssetFile": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\stylesProfesor.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NTZ8wL2qXeBB9bWRuGqFxStWyvj5GeFsGh8yFMGORp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NTZ8wL2qXeBB9bWRuGqFxStWyvj5GeFsGh8yFMGORp8="
+        }
+      ]
+    },
+    {
+      "Route": "stylesProfesor.lcfayi6e89.css",
+      "AssetFile": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\stylesProfesor.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NTZ8wL2qXeBB9bWRuGqFxStWyvj5GeFsGh8yFMGORp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lcfayi6e89"
+        },
+        {
+          "Name": "label",
+          "Value": "stylesProfesor.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NTZ8wL2qXeBB9bWRuGqFxStWyvj5GeFsGh8yFMGORp8="
+        }
+      ]
+    }
+  ]
+}

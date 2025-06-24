@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PA\\Clases\\NOTAS_APE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\wwwroot\\scriptprofesores.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\wwwroot\\scriptprofesores.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\wwwroot\\stylesprofesor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\wwwroot\\stylesprofesor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\controllers\\promedioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\controllers\\promedioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\services\\promedioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\services\\promedioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\services\\notaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\services\\notaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\services\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\services\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\repositories\\promediorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\repositories\\promediorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\repositories\\ipromediorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\repositories\\ipromediorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\repositories\\inotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\repositories\\inotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\repositories\\iestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\repositories\\iestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\repositories\\estudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\repositories\\estudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\configuration\\promedioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\configuration\\promedioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\configuration\\estudianteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\configuration\\estudianteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\dtos\\promediodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\dtos\\promediodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\dtos\\notaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\dtos\\notaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\dtos\\notadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\dtos\\notadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\dtos\\notacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\dtos\\notacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\models\\promedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\models\\promedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|d:\\pa\\clases\\notas_ape\\notas_ape\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scriptProfesores.js",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\scriptProfesores.js",
+              "RelativeDocumentMoniker": "NOTAS_APE\\wwwroot\\scriptProfesores.js",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\scriptProfesores.js",
+              "RelativeToolTip": "NOTAS_APE\\wwwroot\\scriptProfesores.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T16:53:23.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stylesProfesor.css",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\stylesProfesor.css",
+              "RelativeDocumentMoniker": "NOTAS_APE\\wwwroot\\stylesProfesor.css",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\stylesProfesor.css",
+              "RelativeToolTip": "NOTAS_APE\\wwwroot\\stylesProfesor.css",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAcwPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-18T16:52:37.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "NOTAS_APE\\wwwroot\\index.html",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\wwwroot\\index.html",
+              "RelativeToolTip": "NOTAS_APE\\wwwroot\\index.html",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-18T16:41:08.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\appsettings.json",
+              "RelativeDocumentMoniker": "NOTAS_APE\\appsettings.json",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\appsettings.json",
+              "RelativeToolTip": "NOTAS_APE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T14:20:24.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Program.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Program.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Program.cs",
+              "RelativeToolTip": "NOTAS_APE\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T02:25:53.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PromediosController.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Controllers\\PromediosController.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Controllers\\PromediosController.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Controllers\\PromediosController.cs",
+              "RelativeToolTip": "NOTAS_APE\\Controllers\\PromediosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:05:46.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotasController.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Controllers\\NotasController.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Controllers\\NotasController.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Controllers\\NotasController.cs",
+              "RelativeToolTip": "NOTAS_APE\\Controllers\\NotasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:34:34.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "NOTAS_APE\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:34:23.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Controllers\\CursosController.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "NOTAS_APE\\Controllers\\CursosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T02:19:16.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PromedioService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Services\\PromedioService.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Services\\PromedioService.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Services\\PromedioService.cs",
+              "RelativeToolTip": "NOTAS_APE\\Services\\PromedioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:48:25.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotaService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Services\\NotaService.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Services\\NotaService.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Services\\NotaService.cs",
+              "RelativeToolTip": "NOTAS_APE\\Services\\NotaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:07:27.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EstudianteService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Services\\EstudianteService.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Services\\EstudianteService.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Services\\EstudianteService.cs",
+              "RelativeToolTip": "NOTAS_APE\\Services\\EstudianteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:07:19.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PromedioRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Repositories\\PromedioRepository.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Repositories\\PromedioRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Repositories\\PromedioRepository.cs",
+              "RelativeToolTip": "NOTAS_APE\\Repositories\\PromedioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:22:02.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPromedioRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Repositories\\IPromedioRepository.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Repositories\\IPromedioRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Repositories\\IPromedioRepository.cs",
+              "RelativeToolTip": "NOTAS_APE\\Repositories\\IPromedioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:41:49.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "INotaRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Repositories\\INotaRepository.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Repositories\\INotaRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Repositories\\INotaRepository.cs",
+              "RelativeToolTip": "NOTAS_APE\\Repositories\\INotaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:06:50.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEstudianteRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Repositories\\IEstudianteRepository.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Repositories\\IEstudianteRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Repositories\\IEstudianteRepository.cs",
+              "RelativeToolTip": "NOTAS_APE\\Repositories\\IEstudianteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:06:41.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EstudianteRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Repositories\\EstudianteRepository.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Repositories\\EstudianteRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Repositories\\EstudianteRepository.cs",
+              "RelativeToolTip": "NOTAS_APE\\Repositories\\EstudianteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:06:30.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PromedioConfiguration.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Configuration\\PromedioConfiguration.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Configuration\\PromedioConfiguration.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Configuration\\PromedioConfiguration.cs",
+              "RelativeToolTip": "NOTAS_APE\\Configuration\\PromedioConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:56:01.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NotaUpdateDTO.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\DTOs\\NotaUpdateDTO.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\DTOs\\NotaUpdateDTO.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\DTOs\\NotaUpdateDTO.cs",
+              "RelativeToolTip": "NOTAS_APE\\DTOs\\NotaUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:37:07.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotaDTO.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\DTOs\\NotaDTO.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\DTOs\\NotaDTO.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\DTOs\\NotaDTO.cs",
+              "RelativeToolTip": "NOTAS_APE\\DTOs\\NotaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:33:31.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PromedioDTO.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\DTOs\\PromedioDTO.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\DTOs\\PromedioDTO.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\DTOs\\PromedioDTO.cs",
+              "RelativeToolTip": "NOTAS_APE\\DTOs\\PromedioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:04:28.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NOTAS_APE\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:54:49.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EstudianteConfiguration.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Configuration\\EstudianteConfiguration.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Configuration\\EstudianteConfiguration.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Configuration\\EstudianteConfiguration.cs",
+              "RelativeToolTip": "NOTAS_APE\\Configuration\\EstudianteConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:35:11.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NotaCreateDTO.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\DTOs\\NotaCreateDTO.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\DTOs\\NotaCreateDTO.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\DTOs\\NotaCreateDTO.cs",
+              "RelativeToolTip": "NOTAS_APE\\DTOs\\NotaCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:01:55.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Promedio.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Models\\Promedio.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Models\\Promedio.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Models\\Promedio.cs",
+              "RelativeToolTip": "NOTAS_APE\\Models\\Promedio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:50:00.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Models\\Nota.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Models\\Nota.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Models\\Nota.cs",
+              "RelativeToolTip": "NOTAS_APE\\Models\\Nota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:33:15.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Models\\Estudiante.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Models\\Estudiante.cs",
+              "RelativeToolTip": "NOTAS_APE\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:33:06.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Models\\Curso.cs",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Models\\Curso.cs",
+              "RelativeToolTip": "NOTAS_APE\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:31:43.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PA\\Clases\\NOTAS_APE\\NOTAS_APE\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NOTAS_APE\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T14:19:47.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

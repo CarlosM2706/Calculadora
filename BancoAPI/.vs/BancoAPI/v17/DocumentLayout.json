@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PA\\Clases\\BancoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\controllers\\bancocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\controllers\\bancocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\services\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\services\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\services\\bancoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\services\\bancoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\models\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\models\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|d:\\pa\\clases\\bancoapi\\bancoapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469F7024-B3C4-4CA4-A767-C63075161FB5}|BancoAPI\\BancoAPI.csproj|solutionrelative:bancoapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "BancoAPI\\wwwroot\\script.js",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\script.js",
+              "RelativeToolTip": "BancoAPI\\wwwroot\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-22T18:34:19.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "BancoAPI\\wwwroot\\style.css",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\style.css",
+              "RelativeToolTip": "BancoAPI\\wwwroot\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-22T18:30:32.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BancoAPI\\wwwroot\\index.html",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\wwwroot\\index.html",
+              "RelativeToolTip": "BancoAPI\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-22T18:26:48.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BancoAPI\\Program.cs",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Program.cs",
+              "RelativeToolTip": "BancoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:00:52.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BancoAPI\\appsettings.json",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\appsettings.json",
+              "RelativeToolTip": "BancoAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T21:49:42.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BancoController.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Controllers\\BancoController.cs",
+              "RelativeDocumentMoniker": "BancoAPI\\Controllers\\BancoController.cs",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Controllers\\BancoController.cs",
+              "RelativeToolTip": "BancoAPI\\Controllers\\BancoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:48:39.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "BancoAPI\\Controllers\\ClientesController.cs",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "BancoAPI\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:55:58.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CuentasController.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Controllers\\CuentasController.cs",
+              "RelativeDocumentMoniker": "BancoAPI\\Controllers\\CuentasController.cs",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Controllers\\CuentasController.cs",
+              "RelativeToolTip": "BancoAPI\\Controllers\\CuentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:03:09.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CuentaService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Services\\CuentaService.cs",
+              "RelativeDocumentMoniker": "BancoAPI\\Services\\CuentaService.cs",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Services\\CuentaService.cs",
+              "RelativeToolTip": "BancoAPI\\Services\\CuentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:02:13.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "BancoAPI\\Services\\ClienteService.cs",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Services\\ClienteService.cs",
+              "RelativeToolTip": "BancoAPI\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:55:08.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BancoService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Services\\BancoService.cs",
+              "RelativeDocumentMoniker": "BancoAPI\\Services\\BancoService.cs",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Services\\BancoService.cs",
+              "RelativeToolTip": "BancoAPI\\Services\\BancoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:46:17.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transferencia.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Models\\Transferencia.cs",
+              "RelativeDocumentMoniker": "BancoAPI\\Models\\Transferencia.cs",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Models\\Transferencia.cs",
+              "RelativeToolTip": "BancoAPI\\Models\\Transferencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:45:24.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Models\\Cuenta.cs",
+              "RelativeDocumentMoniker": "BancoAPI\\Models\\Cuenta.cs",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Models\\Cuenta.cs",
+              "RelativeToolTip": "BancoAPI\\Models\\Cuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:44:52.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "BancoAPI\\Models\\Cliente.cs",
+              "ToolTip": "D:\\PA\\Clases\\BancoAPI\\BancoAPI\\Models\\Cliente.cs",
+              "RelativeToolTip": "BancoAPI\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:44:24.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
