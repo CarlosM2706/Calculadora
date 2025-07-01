@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PA\\Clases\\SistemaAcademicoFORMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D158C8-EFDC-410D-A762-B2C9A1D03F5D}|SistemaAcademicoFORMS\\SistemaAcademicoFORMS.csproj|d:\\pa\\clases\\sistemaacademicoforms\\sistemaacademicoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D158C8-EFDC-410D-A762-B2C9A1D03F5D}|SistemaAcademicoFORMS\\SistemaAcademicoFORMS.csproj|solutionrelative:sistemaacademicoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D158C8-EFDC-410D-A762-B2C9A1D03F5D}|SistemaAcademicoFORMS\\SistemaAcademicoFORMS.csproj|d:\\pa\\clases\\sistemaacademicoforms\\sistemaacademicoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4D158C8-EFDC-410D-A762-B2C9A1D03F5D}|SistemaAcademicoFORMS\\SistemaAcademicoFORMS.csproj|solutionrelative:sistemaacademicoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D158C8-EFDC-410D-A762-B2C9A1D03F5D}|SistemaAcademicoFORMS\\SistemaAcademicoFORMS.csproj|d:\\pa\\clases\\sistemaacademicoforms\\sistemaacademicoforms\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D158C8-EFDC-410D-A762-B2C9A1D03F5D}|SistemaAcademicoFORMS\\SistemaAcademicoFORMS.csproj|solutionrelative:sistemaacademicoforms\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D158C8-EFDC-410D-A762-B2C9A1D03F5D}|SistemaAcademicoFORMS\\SistemaAcademicoFORMS.csproj|d:\\pa\\clases\\sistemaacademicoforms\\sistemaacademicoforms\\entities\\matriculareporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D158C8-EFDC-410D-A762-B2C9A1D03F5D}|SistemaAcademicoFORMS\\SistemaAcademicoFORMS.csproj|solutionrelative:sistemaacademicoforms\\entities\\matriculareporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PA\\Clases\\SistemaAcademicoFORMS\\SistemaAcademicoFORMS\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaAcademicoFORMS\\Form1.cs",
+              "ToolTip": "D:\\PA\\Clases\\SistemaAcademicoFORMS\\SistemaAcademicoFORMS\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaAcademicoFORMS\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T00:08:12.113Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\SistemaAcademicoFORMS\\SistemaAcademicoFORMS\\Data\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "SistemaAcademicoFORMS\\Data\\DatabaseHelper.cs",
+              "ToolTip": "D:\\PA\\Clases\\SistemaAcademicoFORMS\\SistemaAcademicoFORMS\\Data\\DatabaseHelper.cs",
+              "RelativeToolTip": "SistemaAcademicoFORMS\\Data\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvysAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T00:31:53.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\SistemaAcademicoFORMS\\SistemaAcademicoFORMS\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaAcademicoFORMS\\Form1.cs",
+              "ToolTip": "D:\\PA\\Clases\\SistemaAcademicoFORMS\\SistemaAcademicoFORMS\\Form1.cs",
+              "RelativeToolTip": "SistemaAcademicoFORMS\\Form1.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAIwCUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T00:16:15.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatriculaReporte.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\SistemaAcademicoFORMS\\SistemaAcademicoFORMS\\Entities\\MatriculaReporte.cs",
+              "RelativeDocumentMoniker": "SistemaAcademicoFORMS\\Entities\\MatriculaReporte.cs",
+              "ToolTip": "D:\\PA\\Clases\\SistemaAcademicoFORMS\\SistemaAcademicoFORMS\\Entities\\MatriculaReporte.cs",
+              "RelativeToolTip": "SistemaAcademicoFORMS\\Entities\\MatriculaReporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T00:15:29.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
